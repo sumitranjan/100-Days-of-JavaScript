@@ -1,1 +1,1 @@
-# 100-Days-of-JavaScript
+# Java Script Practice project
